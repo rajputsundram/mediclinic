@@ -1,17 +1,12 @@
 .bodyImg {
-    background-color: aqua;
-    height: 600px;
-    box-shadow: 3px 6px 8px #c8c6c6;
-    background-size: cover;
+    height: 700px;
+background:url("https://images.pexels.com/photos/5858850/pexels-photo-5858850.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+background-repeat: no-repeat;
+background-size:cover;
+
 
 }
 
-.bodyImg img {
-    height: 600px;
-    background-size: cover;
-    object-fit: cover;
-
-}
 
 .secondNavbar {
     display: flex;
@@ -55,7 +50,7 @@
 }
 
 .hospitalHomeCareSecDiv .heading {
-    color: red;
+    
     font-size: 25px;
     font-weight: 600;
     margin-left: 10px;
